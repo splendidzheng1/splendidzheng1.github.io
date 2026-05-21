@@ -32,7 +32,7 @@ AI 内容创作者 · 投资者 · 自动化工具爱好者
 
 ## GitHub 统计
 
-![Splendid's GitHub stats](https://github-readme-stats.vercel.app/api?username=splendidzheng1&show_icons=true&theme=default)
+![Splendid's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=splendidzheng1&show_icons=true&theme=default)
 
 ---
 
