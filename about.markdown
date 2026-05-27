@@ -1,6 +1,7 @@
 ---
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About
+permalink: /about/
 ---
 
 ## 关于我
@@ -32,3 +33,8 @@ Charles，2023年毕业于汕头大学，获得计算机科学与技术专业的
 ### 个人格言
 
 > "代码是自动化的 SOP，投资是认知的变现。"
+
+### 联系方式
+
+- GitHub: [splendidzheng1](https://github.com/splendidzheng1)
+- Email: splendidzheng@163.com

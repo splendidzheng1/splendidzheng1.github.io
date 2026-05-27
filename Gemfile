@@ -1,10 +1,6 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.5"
-
-gem "html-proofer", "~> 5.0", group: :test
+gem "github-pages", group: :jekyll_plugins
 
 platforms :windows, :jruby do
   gem "tzinfo", ">= 1", "< 3"
