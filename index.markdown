@@ -16,4 +16,4 @@ _{{ post.date | date: "%Y-%m-%d" }}_
 {% endfor %}
 
 ---
-**导航**: [查看所有标签](/tags.html) · [关于我](/about.html)
+**导航**: [查看所有标签](/tags.html) · [关于我](/about/)
